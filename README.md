@@ -1,3 +1,3 @@
 # Test_Quiz
 Quiz  flutter application  
-![](quiz_photo/1.png| width: 100)
+![](quiz_photo/1.png | width: 100)
